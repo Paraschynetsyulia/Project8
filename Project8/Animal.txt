@@ -1,0 +1,4 @@
+Dog, shepherd ,black,5,1500, vul.Shevchenka 12
+Cat, siamese, gray,10,700, vul.Doroshenka 3
+Cat, siberian, gray ,2,800, vul.Pasichna 4
+Cat,Sibetian,grey,2,100,
